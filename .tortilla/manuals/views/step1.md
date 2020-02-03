@@ -44,7 +44,7 @@ Now that you have some experience editing the files in your Meteor app, let's st
 
 [{]: <helper> (navStep)
 
-| [< Intro](../../../README.md) | [Next Step >](step2.md) |
+| [< Previous Step](step10.md) | [Next Step >](step12.md) |
 |:--------------------------------|--------------------------------:|
 
 [}]: #
