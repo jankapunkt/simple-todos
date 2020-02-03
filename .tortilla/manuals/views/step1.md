@@ -1,9 +1,8 @@
 # Step 1: Creating your first app
 
-[//]: # (head-end)
+[//]: # 'head-end'
 
-
-In this tutorial, we are going to create a simple app to manage a 'to do' list and collaborate with others on those tasks.  By the end, you should have a basic understanding of Meteor and its project structure.
+In this tutorial, we are going to create a simple app to manage a 'to do' list and collaborate with others on those tasks. By the end, you should have a basic understanding of Meteor and its project structure.
 
 To create the app, open your terminal and type:
 
@@ -39,12 +38,11 @@ You can play around with this default app for a bit before we continue. For exam
 
 Now that you have some experience editing the files in your Meteor app, let's start working on a simple todo list application. If you find a bug or error in the tutorial, please file an issue or submit a pull request [on GitHub](https://github.com/meteor/simple-todos).
 
-
-[//]: # (foot-start)
-
-[{]: <helper> (navStep)
+[//]: # 'foot-start'
+[{]: helper 'navStep'
 
 | [< Intro](../../../README.md) | [Next Step >](step2.md) |
-|:--------------------------------|--------------------------------:|
+| :---------------------------- | ----------------------: |
+
 
 [}]: #
